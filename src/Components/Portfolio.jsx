@@ -34,7 +34,7 @@ const projectList = [
     title: "My blog website",
     description:
       "Explore the world through my eyes and experiences on my personal blog.",
-    url: "www.linkedin.com/in/saumyaghatole/",
+    url: "https://www.linkedin.com/in/saumyaghatole/",
   },
   {
     title: "My channel",
