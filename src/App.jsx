@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "saumyaghatole",
   medium: "",
   twitter: "",
-  youTube: "saumyaghatole",
+  youTube: "@saumyaghatole",
 };
 
 const primaryColor = "#4E567E";
